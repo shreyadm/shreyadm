@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-` .-.            .-.`
- `   (  |.-.      .-.|  )` 
-  ` .-'/__ )     ( __\ '-.`
-  `(__/ \           / \___)`
-   `  \_/           \_/   `  
