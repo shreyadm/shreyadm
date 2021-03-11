@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&layout=compact" />
 </a>
 
+## 🔗 Let's connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
