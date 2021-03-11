@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there!👋</h2>
 
 <!-- language: lang-none -->
-     .-.            .-.                                                      .-.            .-.
-        (  |.-.      .-.|  )                                                    (  |.-.      .-.|  ) 
-       .-'/__ )     ( __\ '-.                                                  .-'/__ )     ( __\ '-.
-      (__/ \           / \___)                                                (__/ \           / \___)
-         \_/           \_/                                                       \_/           \_/            
+     .-.            .-.                                                                      .-.            .-.
+        (  |.-.      .-.|  )                                                                    (  |.-.      .-.|  ) 
+       .-'/__ )     ( __\ '-.                                                                  .-'/__ )     ( __\ '-.
+      (__/ \           / \___)                                                                (__/ \           / \___)
+         \_/           \_/                                                                       \_/           \_/            
 
 <h2 align="center">I'm Shreya, an IT undergrad   👩‍💻 exploring new technologies ✨ </h2>
 
