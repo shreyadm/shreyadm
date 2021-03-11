@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there!👋</h2>
 
 <!-- language: lang-none -->
      .-.            .-.                                                      .-.            .-.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       (__/ \           / \___)                                                (__/ \           / \___)
          \_/           \_/                                                       \_/           \_/            
 
-<h2 align="center">I'm Shreya, an IT undergrad   👩‍💻   exploring and learning new technologies ✨ </h2>
+<h2 align="center">I'm Shreya, an IT undergrad   👩‍💻 exploring new technologies ✨ </h2>
 
 ## 💡 What I do
 - 🔭 I’m currently working on my Final year Project
