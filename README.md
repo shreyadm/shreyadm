@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">I'm Shreya, an IT undergrad   👩‍💻 exploring new technologies ✨ </h2>
 
-## 💡 What I do
+## 💡 About
 - 🔭 I’m currently working on my Final year Project
 - 🌱 I’m currently learning Flask framework
 - 🌐 I'm trying to speak German 
