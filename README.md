@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 💡 About
 <!-- - 🔭 I’m currently working on my Final year Project -->
-- 🌱 I’m currently learning Flask framework
+- 🌱 I’m currently learning Angular
 - 🌐 I'm trying to speak German 
 - ⚡ Fun fact: I prefer tabs over spaces
 
