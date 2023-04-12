@@ -25,10 +25,11 @@ Here are some ideas to get you started:
       (__/ \           / \___)                                                                  (__/ \           / \___)
          \_/           \_/                                                                         \_/           \_/            
  -->
-<h2 align="center">I'm Shreya, an IT undergrad   👩‍💻 exploring new technologies ✨ </h2>
+<!-- <h2 align="center">I'm Shreya, an IT undergrad   👩‍💻 exploring new technologies ✨ </h2> -->
 
 ## 💡 About
 <!-- - 🔭 I’m currently working on my Final year Project -->
+- 💻 Working as ASE [@TCS](https://www.tcs.com/)
 - 🌱 I’m currently learning Angular
 - 🌐 I'm trying to speak German 
 - ⚡ Fun fact: I prefer tabs over spaces
