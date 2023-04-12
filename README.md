@@ -41,6 +41,14 @@ Here are some ideas to get you started:
 
 ## 🔗 Let's connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=shreyadm&color=blue)
+
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyadm)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyadm)](https://github.com/anuraghazra/github-readme-stats)
