@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=shreyadm&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=shreyadm&color=blue) -->
 
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyadm)](https://git.io/streak-stats)
