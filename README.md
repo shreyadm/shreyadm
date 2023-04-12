@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2 align="center">Hi there!👋</h2>
+<h2>Hi there!👋</h2>
 
 <!-- language: lang-none -->
 <!--      .-.            .-.                                                                        .-.            .-.
