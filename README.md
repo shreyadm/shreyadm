@@ -35,10 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I prefer tabs over spaces
 
 ## 📊 I spent my time on
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&layout=compact" />
-</a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyadm&theme=dark)](https://git.io/streak-stats)
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&layout=compact&show_icons=true&theme=dark" />
+</a>
 ## 🔗 Let's connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
 
