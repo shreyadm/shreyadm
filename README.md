@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 
 ## 📊 I spent my time on
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyadm&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=shreyadm&theme=dark)](https://git.io/streak-stats)
 &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Let's connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
