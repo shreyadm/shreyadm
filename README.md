@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2>Hi there!👋</h2>
+<h2>Hey there!👋</h2>
 
 <!-- language: lang-none -->
 <!--      .-.            .-.                                                                        .-.            .-.
@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 ## 💡 About
 <!-- - 🔭 I’m currently working on my Final year Project -->
-- 💻 Working as ASE [@TCS](https://www.tcs.com/)
-- 🌱 I’m currently learning Angular
+- 🎓 Currrently pursuing [M.Tech in AIML](https://www.sitpune.edu.in/mtech-AI)
+- 💻 Worked as Systems Engineer [@TCS](https://www.tcs.com/)
+- 🌱 I’m currently learning NLP
 - 🌐 I'm trying to speak German 
-- ⚡ Fun fact: I prefer tabs over spaces
+- ⚡ Fun fact: I prefer tabs over spaces.
 
 ## 📊 I spent my time on
 
@@ -43,11 +44,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyadm&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Let's connect
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
+[<img src='https://github.com/shreyadm/shreyadm/assets/51232994/10758725-d3e5-40a4-b457-2e7e1392ce77' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreya-mahajan-74333a195/)  
+
+[<img src='https://github.com/shreyadm/shreyadm/assets/51232994/46cc0859-c283-45f1-8e52-50bda740c904' alt='mail' height='30'>](mailto:work.shreyadm@gmail.com)  
 
 
 
-
+<!-- ![image](https://github.com/shreyadm/shreyadm/assets/51232994/10758725-d3e5-40a4-b457-2e7e1392ce77) -->
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=shreyadm&color=blue) -->
