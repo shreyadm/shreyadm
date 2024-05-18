@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 💻 Worked as Systems Engineer [@TCS](https://www.tcs.com/)
 - 🌱 I’m currently learning NLP
 - 🌐 I'm trying to speak German 
-- ⚡ Fun fact: I prefer tabs over spaces.
+- ⚡ Fun fact: I prefer tabs over spaces. *[iykyk](https://silicon-valley.fandom.com/wiki/Tabs_vs._spaces)
 
 ## 📊 I spent my time on
 
